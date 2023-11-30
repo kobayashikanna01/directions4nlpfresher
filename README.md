@@ -2,7 +2,7 @@
 
 1. 对于初学者
 
-**请尽量按顺序阅读**
+  **请尽量按顺序阅读**
 * 网课Stanford CS224N: Natural Language Processing with Deep Learning
   * 网站：[CS224N](https://web.stanford.edu/class/cs224n/)
   * 视频：[Winter 2021 - Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [Winter 2021 - B站](https://www.bilibili.com/video/BV18Y411p79k/)
