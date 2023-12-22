@@ -24,6 +24,8 @@ def bfs_visit(
 ) -> int:
     return -1
 
+# 下面的主函数仅供参考，可以随意修改进行本地测试。
+# 在线评测时只会加载bfs_visit函数。
 if __name__ == '__main__':
     test_num = 10
     while test_num > 0:
