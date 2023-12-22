@@ -37,4 +37,4 @@
   * 掌握函数的定义
   * 掌握class的定义、__init__、初步掌握class的继承
 * 掌握json文件的读写，json格式字符串与list、dict对象之间的互相转化（尤其注意dict对象的KEY为数字或KEY为字符串时，该对象与json格式的字符串互相转换之间的不一致性）
-* 测试：用Python编写程序，实现BFS走迷宫
+* 测试：用Python编写程序，实现BFS走迷宫([链接](https://github.com/kobayashikanna01/directions4nlpfresher/blob/main/chap2/bfs_test.py))
