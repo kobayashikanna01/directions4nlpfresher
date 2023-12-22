@@ -26,3 +26,15 @@
 * 论文：BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
   * [[论文](https://arxiv.org/abs/1810.04805)]
   * 回答：从Encoder和Decoder的角度，BERT和最原始的Transformer（Attention Is All You Need中的）有什么区别？
+
+### 2. 快速上手Python编程
+
+* 尝试在自己的机器上部署Python3（不要安装Python2）
+* 了解主函数、输入输出函数的使用
+* 尝试Python的两种执行方式：交互式执行、提交式执行
+* 了解基本数据结构：
+  * 掌握list、dict、set、tuple的特性和使用方法
+  * 掌握函数的定义
+  * 掌握class的定义、__init__、初步掌握class的继承
+* 掌握json文件的读写，json格式字符串与list、dict对象之间的互相转化（尤其注意dict对象的KEY为数字或KEY为字符串时，该对象与json格式的字符串互相转换之间的不一致性）
+* 测试：用Python编写程序，实现BFS走迷宫
