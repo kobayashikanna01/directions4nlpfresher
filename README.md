@@ -45,6 +45,7 @@
   * NLP：ACL/NAACL/EMNLP
   * CV：CVPR/ICCV/ECCV/等等
   * 与AI、DL、ML相关的：NeurIPS/ICML/ICLR
+  * ACL系列论文集：https://aclanthology.org
 
 * 其他值得参考但需要鉴别的：
   * EACL/COLING/等等
