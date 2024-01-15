@@ -59,7 +59,6 @@
   * 可以将代码和模型参数都下载至本地"/path/to/save/phi2"，然后通过本地路径调用
   * 参考代码：[GitHub](https://github.com/kobayashikanna01/directions4nlpfresher/blob/main/chap4/deploy_phi_2.py)(改编自[HuggingFace](https://huggingface.co/microsoft/phi-2))
 * 关于各种超参数的介绍：[HuggingFace](https://huggingface.co/docs/transformers/main/en/main_classes/text_generation#transformers.GenerationConfig)（不用急着一次性看完，）
-* 关于设计prompt的介绍：[promptingguide.ai](https://www.promptingguide.ai/zh/introduction/basics)、[learnprompting.org](https://learnprompting.org/zh-Hans/docs/category/-basics)
 * 延伸阅读：
   * 了解能通过transformers加载的模型都需要哪些文件？config.json、tokenizer.json、*.bin/*.safetensors、……
   * 了解加载模型时可选的参数编码模式：float32、bfloat16、int8、int4、……
@@ -70,7 +69,8 @@
   * 思维链推理（[arXiv](https://arxiv.org/abs/2201.11903)）
   * 上下文学习（[ai.stanford.edu](http://ai.stanford.edu/blog/understanding-incontext/)）
   * 初步了解（略读）开源LLM的鼻祖——LLaMA（[arXiv](https://arxiv.org/abs/2302.13971)）
+  * 关于设计prompt的介绍：[promptingguide.ai](https://www.promptingguide.ai/zh/introduction/basics)、[learnprompting.org](https://learnprompting.org/zh-Hans/docs/category/-basics)
     
-* 部署LLM完成特定任务
+* 动手尝试：部署LLM完成特定任务（例如情感分类）
   * 对于英文任务，你可以尝试：[LLaMA2-7B](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)、[Mistral-7B](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
   * 对于中文任务，你可以尝试：[Baichuan2-7B](https://huggingface.co/baichuan-inc/Baichuan2-7B-Chat)、[Qwen-7B](https://huggingface.co/Qwen/Qwen-7B-Chat)、[Deepseek-7B](https://huggingface.co/Qwen/Qwen-7B-Chat)
