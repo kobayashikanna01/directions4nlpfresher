@@ -50,3 +50,9 @@
 * 其他值得参考但需要鉴别的：
   * EACL/COLING/等等
   * arXiv
+ 
+### 4. 尝试部署一个LLM
+
+* 示例（Microsoft Phi-2）：
+  * 参考链接：[HuggingFace](https://huggingface.co/microsoft/phi-2)、[ModelScope](https://modelscope.cn/models/mengzhao/phi-2)
+  * 可以将代码和模型参数都下载至本地"/path/to/save/phi2"
